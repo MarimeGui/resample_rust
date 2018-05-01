@@ -1,0 +1,6 @@
+[package]
+name = "resample"
+version = "0.1.0"
+authors = ["guillaume <lepro.guillaume@gmail.com>"]
+
+[dependencies]
